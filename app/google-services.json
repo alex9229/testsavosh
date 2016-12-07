@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "798184215034",
+    "firebase_url": "https://testsavosh.firebaseio.com",
+    "project_id": "testsavosh",
+    "storage_bucket": "testsavosh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798184215034:android:622d701e80fd2faa",
+        "android_client_info": {
+          "package_name": "almik.testsavosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798184215034-suadpep7563j0dkjaiavn45o358l8th9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi_RmPErxbLKbtwH-ZExM6KkcvS4droj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
